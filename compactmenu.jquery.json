@@ -1,0 +1,25 @@
+{
+  "name": "compactmenu",
+  "title": "Compact Drop Down Menus",
+  "description": "This is a multi-level drop down menu that's also a space saver, by stacking the sub menus on top of one another when revealed.  The markup for each drop down menu is simply plain HTML, transformed by the script afterwards into the result you see on the page. CSS3 transforms are used for the transition effect between sub menu changes, though the menu is functional in legacy browsers as well, including IE8+. With the advent of a myriad of screen sizes, especially smaller screens, a compact drop down menu may just be what the doctor ordered!",
+  "keywords": ["navigation", "menu", "drop down"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.10"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex1/compactmenu.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex1/compactmenu.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex1/compactmenu.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex1/compactmenu.htm"
+}
