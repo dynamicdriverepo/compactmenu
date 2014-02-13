@@ -43,197 +43,197 @@
 
 *Step 3:* Then, add the below sample markup to your page:
 
-  <h2>Demo 1</h2>
-
-  <div class="container" style="width: 200px;">
-    <div id="menu1">
-      <div class="compactanchor">
-        <a href="#">Anchor Text</a>
-      </div>
-
-      <ul>
-        <li>
-          <a href="#">Explore DD</a>
-
-          <ul>
-            <li><a href="http://www.dynamicdrive.com/">Home</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/new.htm">New Scripts</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/forums/">Forums</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
-
-            <li><a href="http://tools.dynamicdrive.com">Tools</a></li>
-          </ul>
-        </li>
-
-        <li><a href="#">Link Text</a></li>
-
-        <li>
-          <a href="#">Link Text</a>
-
-          <ul>
-            <li><a href="#">Sub Link Text</a></li>
-
-            <li><a href="#">Sub Link Text</a></li>
-
-            <li>
-              <a href="#">Sub Link Text</a>
-
-              <ul>
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-
-        <li>
-          <a href="#">Link Text 2</a>
-
-          <ul>
-            <li><a href="#">Sub Link Text 2</a></li>
-
-            <li><a href="#">Sub Link Text 2</a></li>
-
-            <li><a href="#">Sub Link Text 2</a></li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <h2>Demo 2</h2>
-
-  <div class="container" style="width: 200px;">
-    <div id="menu2">
-      <div class="compactanchor">
-        Compact Menu
-      </div>
-
-      <ul>
-        <li>
-          <a href="#">Explore DD</a>
-
-          <ul>
-            <li><a href="http://www.dynamicdrive.com/">Home</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/new.htm">New Scripts</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/forums/">Forums</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
-
-            <li><a href="http://tools.dynamicdrive.com">Tools</a></li>
-          </ul>
-        </li>
-
-        <li><a href="#">Link Text</a></li>
-
-        <li>
-          <a href="#">Link Text</a>
-
-          <ul>
-            <li><a href="#">Sub Link Text</a></li>
-
-            <li><a href="#">Sub Link Text</a></li>
-
-            <li>
-              <a href="#">Sub Link Text</a>
-
-              <ul>
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-
-        <li>
-          <a href="#">Link Text 2</a>
-
-          <ul>
-            <li><a href="#">Sub Link Text 2</a></li>
-
-            <li><a href="#">Sub Link Text 2</a></li>
-
-            <li><a href="#">Sub Link Text 2</a></li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <h2>Demo 3</h2>
-
-  <div class="container" style="width: 200px;">
-    <div id="menu3">
-      <div class="icon compactanchor">
-        Icon
-      </div>
-
-      <ul>
-        <li>
-          <a href="#">Explore DD</a>
-
-          <ul>
-            <li><a href="http://www.dynamicdrive.com/">Home</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/new.htm">New Scripts</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/forums/">Forums</a></li>
-
-            <li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
-
-            <li><a href="http://tools.dynamicdrive.com">Tools</a></li>
-          </ul>
-        </li>
-
-        <li><a href="#">Link Text</a></li>
-
-        <li>
-          <a href="#">Link Text</a>
-
-          <ul>
-            <li><a href="#">Sub Link Text</a></li>
-
-            <li><a href="#">Sub Link Text</a></li>
-
-            <li>
-              <a href="#">Sub Link Text</a>
-
-              <ul>
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-
-                <li><a href="#">Sub Link Text 1 - Sub</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-
-        <li>
-          <a href="#">Link Text 2</a>
-
-          <ul>
-            <li><a href="#">Sub Link Text 2</a></li>
-
-            <li><a href="#">Sub Link Text 2</a></li>
-
-            <li><a href="#">Sub Link Text 2</a></li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-  </div>
+	  <h2>Demo 1</h2>
+	
+	  <div class="container" style="width: 200px;">
+	    <div id="menu1">
+	      <div class="compactanchor">
+	        <a href="#">Anchor Text</a>
+	      </div>
+	
+	      <ul>
+	        <li>
+	          <a href="#">Explore DD</a>
+	
+	          <ul>
+	            <li><a href="http://www.dynamicdrive.com/">Home</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/new.htm">New Scripts</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/forums/">Forums</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
+	
+	            <li><a href="http://tools.dynamicdrive.com">Tools</a></li>
+	          </ul>
+	        </li>
+	
+	        <li><a href="#">Link Text</a></li>
+	
+	        <li>
+	          <a href="#">Link Text</a>
+	
+	          <ul>
+	            <li><a href="#">Sub Link Text</a></li>
+	
+	            <li><a href="#">Sub Link Text</a></li>
+	
+	            <li>
+	              <a href="#">Sub Link Text</a>
+	
+	              <ul>
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	              </ul>
+	            </li>
+	          </ul>
+	        </li>
+	
+	        <li>
+	          <a href="#">Link Text 2</a>
+	
+	          <ul>
+	            <li><a href="#">Sub Link Text 2</a></li>
+	
+	            <li><a href="#">Sub Link Text 2</a></li>
+	
+	            <li><a href="#">Sub Link Text 2</a></li>
+	          </ul>
+	        </li>
+	      </ul>
+	    </div>
+	  </div>
+	
+	  <h2>Demo 2</h2>
+	
+	  <div class="container" style="width: 200px;">
+	    <div id="menu2">
+	      <div class="compactanchor">
+	        Compact Menu
+	      </div>
+	
+	      <ul>
+	        <li>
+	          <a href="#">Explore DD</a>
+	
+	          <ul>
+	            <li><a href="http://www.dynamicdrive.com/">Home</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/new.htm">New Scripts</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/forums/">Forums</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
+	
+	            <li><a href="http://tools.dynamicdrive.com">Tools</a></li>
+	          </ul>
+	        </li>
+	
+	        <li><a href="#">Link Text</a></li>
+	
+	        <li>
+	          <a href="#">Link Text</a>
+	
+	          <ul>
+	            <li><a href="#">Sub Link Text</a></li>
+	
+	            <li><a href="#">Sub Link Text</a></li>
+	
+	            <li>
+	              <a href="#">Sub Link Text</a>
+	
+	              <ul>
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	              </ul>
+	            </li>
+	          </ul>
+	        </li>
+	
+	        <li>
+	          <a href="#">Link Text 2</a>
+	
+	          <ul>
+	            <li><a href="#">Sub Link Text 2</a></li>
+	
+	            <li><a href="#">Sub Link Text 2</a></li>
+	
+	            <li><a href="#">Sub Link Text 2</a></li>
+	          </ul>
+	        </li>
+	      </ul>
+	    </div>
+	  </div>
+	
+	  <h2>Demo 3</h2>
+	
+	  <div class="container" style="width: 200px;">
+	    <div id="menu3">
+	      <div class="icon compactanchor">
+	        Icon
+	      </div>
+	
+	      <ul>
+	        <li>
+	          <a href="#">Explore DD</a>
+	
+	          <ul>
+	            <li><a href="http://www.dynamicdrive.com/">Home</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/new.htm">New Scripts</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/forums/">Forums</a></li>
+	
+	            <li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
+	
+	            <li><a href="http://tools.dynamicdrive.com">Tools</a></li>
+	          </ul>
+	        </li>
+	
+	        <li><a href="#">Link Text</a></li>
+	
+	        <li>
+	          <a href="#">Link Text</a>
+	
+	          <ul>
+	            <li><a href="#">Sub Link Text</a></li>
+	
+	            <li><a href="#">Sub Link Text</a></li>
+	
+	            <li>
+	              <a href="#">Sub Link Text</a>
+	
+	              <ul>
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	
+	                <li><a href="#">Sub Link Text 1 - Sub</a></li>
+	              </ul>
+	            </li>
+	          </ul>
+	        </li>
+	
+	        <li>
+	          <a href="#">Link Text 2</a>
+	
+	          <ul>
+	            <li><a href="#">Sub Link Text 2</a></li>
+	
+	            <li><a href="#">Sub Link Text 2</a></li>
+	
+	            <li><a href="#">Sub Link Text 2</a></li>
+	          </ul>
+	        </li>
+	      </ul>
+	    </div>
+	  </div>
 
 ## Compact Drop Down Menus set up ##
 
